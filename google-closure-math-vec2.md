@@ -11,9 +11,9 @@
 * `goog.math.Vec2.prototype.subtract(b)`当前向量减去b向量
 * `goog.math.Vec2.prototype.rotate(angle)`顺时针旋转angle角度,并返回新向量
 * `goog.math.Vec2.rotateAroundPoint(v,axisPoint,angle)`把向量v相对于坐标点axisPoint旋转angle度
-* `goog.math.Vec2.prototype.equals(b)`
-* `goog.math.Vec2.distance`
-* `goog.math.Vec2.squaredDistance`
+* `goog.math.Vec2.prototype.equals(b)`当前向量与b向量是否相同
+* `goog.math.Vec2.distance(a,b)` a=>b之间距离
+* `goog.math.Vec2.squaredDistance（）`
 * `goog.math.Vec2.equals`
 * `goog.math.Vec2.sum`
 * `goog.math.Vec2.difference`
