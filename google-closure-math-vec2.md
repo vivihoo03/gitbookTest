@@ -13,9 +13,9 @@
 * `goog.math.Vec2.rotateAroundPoint(v,axisPoint,angle)`把向量v相对于坐标点axisPoint旋转angle度
 * `goog.math.Vec2.prototype.equals(b)`当前向量与b向量是否相同
 * `goog.math.Vec2.distance(a,b)` a=>b之间距离
-* `goog.math.Vec2.squaredDistance（）`
-* `goog.math.Vec2.equals`
-* `goog.math.Vec2.sum`
-* `goog.math.Vec2.difference`
-* `goog.math.Vec2.dot`
-* `goog.math.Vec2.lerp `
+* `goog.math.Vec2.squaredDistance(a,b)`a=>之间距离平方
+* `goog.math.Vec2.equals(a,b)`向量a与向量b是否相同
+* `goog.math.Vec2.sum(a,b)`两个向量相加
+* `goog.math.Vec2.difference(a,b)`向量a减去向量b
+* `goog.math.Vec2.dot(a,b)`两个向量点乘
+* `goog.math.Vec2.lerp (a,b,x)`a,b中间x分割点
