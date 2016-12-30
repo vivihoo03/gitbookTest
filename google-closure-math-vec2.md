@@ -19,3 +19,6 @@
 * `goog.math.Vec2.difference(a,b)`向量a减去向量b
 * `goog.math.Vec2.dot(a,b)`两个向量点乘
 * `goog.math.Vec2.lerp (a,b,x)`a,b向量中间x分割点
+
+google closure [官方文档](https://github.com/google/closure-library)
+
