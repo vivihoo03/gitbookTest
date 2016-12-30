@@ -18,4 +18,4 @@
 * `goog.math.Vec2.sum(a,b)`两个向量相加
 * `goog.math.Vec2.difference(a,b)`向量a减去向量b
 * `goog.math.Vec2.dot(a,b)`两个向量点乘
-* `goog.math.Vec2.lerp (a,b,x)`a,b中间x分割点
+* `goog.math.Vec2.lerp (a,b,x)`a,b向量中间x分割点
