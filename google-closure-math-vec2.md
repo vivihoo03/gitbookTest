@@ -3,7 +3,7 @@
 * `goog.math.Vec2.randomUnit()`创建一个随机的二维单位向量对象
 * `goog.math.Vec2.fromCoordinate`根据一个坐标点创建一个二维向量对象
 * `goog.math.Vec2.prototype.clone`克隆返回一个新的二维向量对象
-* `goog.math.Vec2.prototype.magnitude`
+* `goog.math.Vec2.prototype.magnitude`返回向量模
 * `goog.math.Vec2.prototype.squaredMagnitude`
 * `goog.math.Vec2.prototype.invert `
 * `goog.math.Vec2.prototype.normalize`
